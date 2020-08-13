@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #58585a;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+}
