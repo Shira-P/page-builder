@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBook, faAngleDoubleRight, faInfoCircle,  faRedoAlt, faPlus, faShareSquare, faBookReader } from '@fortawesome/free-solid-svg-icons'
+import { faAngleDoubleRight, faInfoCircle,  faPlus, faShareSquare, faBookReader } from '@fortawesome/free-solid-svg-icons'
 
 import './css/menu.css'
 
